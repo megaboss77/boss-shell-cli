@@ -1,6 +1,6 @@
 # Docker
 # display all the process
-docker ps -a
+`docker ps -a`
 
 # build the image from Dockerfile
 
